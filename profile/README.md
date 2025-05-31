@@ -9,3 +9,9 @@ ABER: Bitte nicht als Online-Speicher (für Fotos oder ähnliches) verwenden, so
 Unsere Webseite soll über **Forks** bearbeitet werden.
 
 Viktor und Christian können die Änderung Annehmen.
+
+# Das sind wir
+
+Wir sind eine Familie mit 2 Programmierern.
+
+Deshalb haben wir eine Organisation
